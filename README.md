@@ -9,7 +9,5 @@ The vulnerabilities that we are going to address.
 
 ## Tools.
 `Mutillidae`
-<hr>
-Application web vulnerables
-Web services
-OWASP
+`Sqlmap`
+`
